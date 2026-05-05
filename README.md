@@ -28,6 +28,26 @@ response = client.chat.completions.create(
 )
 ```
 
+
+## 📦 Latest May 2026 Expansion ([v1.0.3](https://github.com/fasuizu-br/brainiall-llm-gateway/releases/tag/v1.0.3))
+
+**Conversion landings** (persona-targeted entry points):
+- 🆓 [Free tier](https://chat.brainiall.com/free) — anti-friction, no credit card
+- 💰 [Flat-rate LLM](https://chat.brainiall.com/flat-rate-llm) — \$5.99/mo predictable bill
+- 🔄 [OpenAI alternative](https://chat.brainiall.com/openai-alternative) — drop-in replacement
+- 🇪🇺 [EU LLM API](https://chat.brainiall.com/eu-llm-api) — GDPR + AI Act compliant
+- 💳 [No credit card AI API](https://chat.brainiall.com/no-credit-card) — students/hackathons
+
+**Developer guides**:
+- 🛠️ [Migrate from OpenAI in 60s](https://chat.brainiall.com/migrate-from-openai)
+- 📊 [Real cost analysis: 7 LLM gateways tested](https://chat.brainiall.com/blog-real-cost-7-llm-gateways-tested-may-2026)
+- 📝 [100 autonomous loops post-mortem](https://chat.brainiall.com/blog-100-loops-zero-customers-may-2026)
+
+**Tools**:
+- 🧮 [Savings calculator](https://chat.brainiall.com/savings-calculator)
+- 📦 [Embeddable widgets](https://chat.brainiall.com/widgets) — 3 cross-origin JS widgets
+- 🔄 [39+ alternatives compared](https://chat.brainiall.com/alternatives/)
+
 ## 📚 Brainiall Documentation
 
 ### Comprehensive Guides
